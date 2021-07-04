@@ -1,8 +1,8 @@
 {
-  "discord": "DISCORD_TOKEN",
+  "discord": "eUxqnc9o7Op0evbMAJQk29_28KJ66mmw",
   "DBhost": "localhost",
-  "DBusername": "rpgBot",
-  "DBpassword": "rpgBot",
-  "DBname": "rpgBot",
-  "prefix": "$"
+  "DBusername": "tokyorogue",
+  "DBpassword": "tokyosquad",
+  "DBname": "Tokyo Rogue",
+  "prefix": "t!"
 }
